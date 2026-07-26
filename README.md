@@ -83,4 +83,4 @@ This project leans on a more deliberate, product-minded approach: each page has 
 
 ## 📬 Contact
 
-Open to freelance Power BI / data analytics projects — reach out via [Upwork profile link] or [email].
+Open to freelance Power BI / data analytics projects — reach out via [https://www.linkedin.com/in/victor-taiwo-076094167/] or [victortaiwo57@gmail.com].
