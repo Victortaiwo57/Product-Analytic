@@ -3,7 +3,7 @@
 
 A 3-page executive-to-operational sales analytics dashboard built in Power BI, covering revenue performance, sales team activity, and pipeline health for a B2B sales organization.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://github.com/Victortaiwo57/Product-Analytic/blob/main/Screenshot%202026-07-26%20013935.png)
 ![DAX](https://img.shields.io/badge/DAX-2C2C2C?style=flat)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
 
