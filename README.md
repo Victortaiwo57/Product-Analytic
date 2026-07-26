@@ -75,12 +75,6 @@ sales-pipeline-dashboard/
 
 ---
 
-## ⚠️ Known Issue
-
-`Avg Sales Cycle (Days)` on the Pipeline Health page currently returns `0.00` — likely a missing/blank Close Date on open deals feeding the date-difference measure. Flagged here intentionally rather than hidden, as a note on what I'd fix next.
-
----
-
 ## 💡 Design Notes
 
 This project leans on a more deliberate, product-minded approach: each page has a single audience and a single job, the visual language (color, typography, card layout) stays consistent throughout so the report reads as one product rather than three disconnected charts, and chart types are chosen for how well their shape communicates the insight (e.g. a Pareto for lost-reason drivers, a funnel for stage drop-off) rather than defaulting to tables everywhere.
